@@ -1,0 +1,95 @@
+D:\Zean's Visual Studio Project\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csprojAssemblyReference.cache
+D:\Zean's Visual Studio Project\ArtStdClient\obj\x86\Debug\Mainpaint.exe
+D:\Zean's Visual Studio Project\ArtStdClient\obj\x86\Debug\Mainpaint.pdb
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.BalanceWindow.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Brightness_Contrast.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Bitonal.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.CartoonFilter.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.ErodeFilter.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.gamma.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.GaussianWindow.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.GradientDetect.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.jitter.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Median.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Noise.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.OilPaint.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Pixelate.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.PixelDistort.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.StainedGlass.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Form1.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.GradientColorPicker.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.new_window.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.GradientColor.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.GradientColorHolder.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.infoForm.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.LayerContainer.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.layerRename.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.LayerRow.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.new_layer.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Properties.Resources.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.TextInputBox.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.GenerateResource.cache
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.CoreCompileInputs.cache
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.exe.manifest
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.application
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.exe
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.pdb
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.exe.manifest
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.application
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.exe
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.pdb
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.PhoneConnect.resources
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Updater.resources
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.dll
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Newtonsoft.Json.dll
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.pdb
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.xml
+D:\My Visual Studio Projects\ArtStdClient\bin\Debug\Newtonsoft.Json.xml
+D:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.CopyComplete
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csprojAssemblyReference.cache
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.BalanceWindow.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Brightness_Contrast.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Bitonal.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.CartoonFilter.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.ErodeFilter.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.gamma.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.GaussianWindow.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.GradientDetect.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.jitter.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Median.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Noise.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.OilPaint.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.Pixelate.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.PixelDistort.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.EffectWindows.StainedGlass.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Form1.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.GradientColorPicker.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.new_window.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.GradientColor.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.GradientColorHolder.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Other.infoForm.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.LayerContainer.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.layerRename.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.LayerRow.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.new_layer.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.PhoneConnect.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Properties.Resources.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.TextInputBox.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Mainpaint.Updater.resources
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.GenerateResource.cache
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.exe
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.pdb
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.exe.config
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.exe.manifest
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.application
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.exe
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Art Studio Pro Suite.pdb
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.dll
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Newtonsoft.Json.dll
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.pdb
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\DiscordRPC.xml
+E:\My Visual Studio Projects\ArtStdClient\bin\Debug\Newtonsoft.Json.xml
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.CoreCompileInputs.cache
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.exe.manifest
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.application
+E:\My Visual Studio Projects\ArtStdClient\obj\x86\Debug\Art Studio Pro Suite.csproj.CopyComplete
